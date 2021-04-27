@@ -1,0 +1,9 @@
+venv
+chromedriver.exe
+Class_Test.py
+geckodriver.exe
+geckodriver.log
+TEST.py
+test_auth_1.py
+test_auth.py
+.pytest_cache
